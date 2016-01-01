@@ -1,4 +1,4 @@
 # dotfiles
 
-vim: source-insight liked vim
-shell: oh-my-zsh
+* vim: source-insight liked vim
+* shell: oh-my-zsh
